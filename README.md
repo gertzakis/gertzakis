@@ -17,3 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Presentations
+
+- GR-IX Members' meeting 2025 - [Automated Circuit Maintenance](https://events.grnet.gr/event/160/timetable/)
+- GRNOG 15 (2013) - [Network Failures: an Automated Incident Response approach](https://diavlos.grnet.gr/room/3152?eventid=15000&vod=12590_session)
+
+#### Blog posts
+
+- Personal blogposts: https://gtzakis.com/posts/
+- Network to Code blogposts: https://networktocode.com/blog/?author=gerasimos-tzakis
